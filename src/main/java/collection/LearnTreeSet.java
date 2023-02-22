@@ -1,4 +1,5 @@
-import java.util.LinkedHashSet;
+package main.java.collection;
+
 import java.util.Set;
 import java.util.TreeSet;
 

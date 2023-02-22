@@ -1,3 +1,5 @@
+package main.java.collection;
+
 import java.util.ArrayDeque;
 
 public class LearnArrayDeque {

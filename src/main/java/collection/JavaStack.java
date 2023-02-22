@@ -1,3 +1,5 @@
+package main.java.collection;
+
 import java.util.Stack;
 
 public class JavaStack {
