@@ -1,4 +1,4 @@
-import com.sun.jdi.PathSearchingVirtualMachine;
+package main.java.collection;
 
 import java.util.LinkedList;
 import java.util.Queue;
